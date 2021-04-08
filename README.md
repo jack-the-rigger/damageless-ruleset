@@ -10,7 +10,7 @@ the trilogy version is not allowed
 
 the permadeath iso is allowed  https://github.com/mills5/prime-permadeath-patcher
 
-run can be submited to jack the rigger#6849 or any prime dsc mod for validation
+run can be submited to any prime dsc mod for validation then to jack the rigger#6849
 
 reward is 1000 dollars in paypall or btc
 
